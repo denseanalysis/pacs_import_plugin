@@ -1,0 +1,9 @@
+{
+    "package": "pacs_import_plugin",
+    "version": "0.1.0",
+    "description": "Allows users to load images directly from a PACS",
+    "name": "Import from PACS",
+    "author": "Jonathan Suever",
+    "email": "suever@gmail.com",
+    "url": "https://github.com/denseanalysis/pacs_import_plugin"
+}
